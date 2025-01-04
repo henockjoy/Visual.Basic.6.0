@@ -1,5 +1,7 @@
 <h1 align="center">Marksheet Processing System in Microsoft Visual Basic 6.0</h1>
 
+<h1 align="center"><img src="https://github.com/henockjoy/Visual.Basic.6.0/blob/main/MarkSheet.png" alt="logo" target="/blank"></h1>
+
 A **Marksheet Processing System** developed using **Microsoft Visual Basic 6.0**, designed to automate the process of calculating and displaying student marks.  
 
 #### Features:  
